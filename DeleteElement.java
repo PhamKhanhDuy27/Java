@@ -21,12 +21,12 @@ public class DeleteElement {
             array[i] = scanner.nextInt();
             i++;
         }
-        System.out.print("Property list: ");
+        System.out.print("Property list: " + "\n");
         for (int j = 0; j < array.length; j++) {
             System.out.print(array[j] + "\t");
         }
         int X;
-        System.out.println("Enter X: ");
+        System.out.println("\nEnter X: ");
         X = scanner.nextInt();
         int index_del = -1;
         for (int k = 0; k < array.length; k++) {

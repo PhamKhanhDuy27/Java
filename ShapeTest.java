@@ -73,7 +73,7 @@ class Circle1 extends Shape {
     public double getArea() {
         return this.radius * this.radius * Math.PI;
     }
-    public double getPermeter() {
+    public double getPerimeter() {
         return 2 * this.radius * Math.PI;
     }
     @Override
@@ -110,7 +110,7 @@ class Rectangle1 extends Shape {
     public double getArea() {
         return this.width * this.length;
     }
-    public double getPermeter() {
+    public double getPerimeter() {
         return 2 * (this.width + this.length);
     }
     @Override

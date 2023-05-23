@@ -9,18 +9,18 @@ public class LeapYearCalculator {
         if(year % 4 == 0) {
             if(year % 100 == 0) {
                 if(year % 400 == 0) {
-                    System.out.printf("%d is a leap year", year);
+                    System.out.printf(year + " is a leap year");
                 }
                 else {
-                    System.out.printf("%d is NOT a leap year", year);
+                    System.out.printf(year + " is NOT a leap year");
                 }
                 }
             else {
-                System.out.printf("%d is a leap year", year);
+                System.out.printf(year + " is a leap year");
             }
             }
         else {
-            System.out.printf("%d is NOT a leap year", year);
+            System.out.printf(year + " is NOT a leap year");
         }
     }
 }

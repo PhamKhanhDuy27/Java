@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="490389d2-3605-4614-b855-9e1cfeec310c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/Java/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/Java/.idea/Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/Java/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/Java/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/Java/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/Java/AreaRectangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/Java/BMICalculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/Java/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/Java/Circle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/Java/Circle1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/Java/Circle2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/Java/ConvertTemperature.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/Java/CountOfStudentPassing.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/Java/CurrencyConversion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/Java/Cylinder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/Java/DayOfMonth.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/Java/DeleteElement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/Java/DrawMenuLoop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/Java/DrawingMenu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/Java/Fan.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/Java/FindElementInArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/Java/FindMaxElement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/Java/FindMinimum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/Java/FindPrimeNumbersLessThanOneHundred.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/Java/FindTheSmallestElement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/Java/FindTwentyPrimes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/Java/GreateCommonFactor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/Java/HelloName.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/Java/InterestCalculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/Java/IsPrime.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/Java/LeapYearCalculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/Java/LinearEquationResolver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/Java/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/Java/MainFive.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/Java/MainFour.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/Java/MainOne.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/Java/MainThree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/Java/MainTwo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/Java/Point2D.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/Java/Point3D.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/Java/QuadraticEquation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/Java/ReadingNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/Java/Rectangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/Java/Rectangle1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/Java/ReverseArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/Java/Shape.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/Java/ShapeTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/Java/Square.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/Java/StopWatch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/Java/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/Java/StudentOne.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/Java/SumArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/Java/SystemTime.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/Java/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/Java/TestCircle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/Java/TestPoint.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/Java/TestStaticMethod.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/Java/TestStaticProperty.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/Java/TestStudent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeleteElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DeleteElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DrawMenuLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DrawMenuLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LeapYearCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LeapYearCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MainTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MainTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShapeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ShapeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Test.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2QBVdsPe32qVPUQYgHkJOjsOCqY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "E:/Module-02"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="AbstractAndInterfaceTests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AbstractAndInterfaceTests" />
+      <module name="Animal" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AbstractAndInterfaceTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="490389d2-3605-4614-b855-9e1cfeec310c" name="Changes" comment="" />
+      <created>1684827052013</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684827052013</updated>
+    </task>
+    <servers />
+  </component>
+</project>

@@ -32,24 +32,21 @@ class QuadraticEquation {
         this.c = c;
     }
     public double getA() {
-        return a;
+        return this.a;
     }
     public double getB() {
-        return b;
+        return this.b;
     }
     public double getC() {
-        return c;
+        return this.c;
     }
     public double getDiscriminant() {
-        double delta = b * b - (4 * a * c);
-        return delta;
+        return (this.b * this.b - (4 * this.a * this.c));
     }
     public double getRoot1() {
-        double r1 = ((-b + Math.pow(b * b - (4 * a * c), 0.5)) / (2 * a));
-        return r1;
+        return ((-this.b + Math.pow(this.b * this.b - (4 * this.a * this.c), 0.5)) / (2 * this.a));
     }
     public double getRoot2() {
-        double r2 = ((-b - Math.pow(b * b - (4 * a * c), 0.5)) / (2 * a));
-        return r2;
+        return ((-this.b - Math.pow(this.b * this.b - (4 * this.a * this.c), 0.5)) / (2 * this.a));
     }
 }
